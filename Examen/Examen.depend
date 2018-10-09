@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1538698226 source:/home/alumno/Descargas/Examen/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1538692023 /home/alumno/Descargas/Examen/utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1538700354 /home/alumno/Descargas/Examen/clientes.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"afiches.h"
+	"utn.h"
+
+1538700372 source:/home/alumno/Descargas/Examen/clientes.c
+	<stdio.h>
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1538699413 source:/home/alumno/Descargas/Examen/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1538698226 /home/alumno/Descargas/Examen/afiches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1538700137 source:/home/alumno/Descargas/Examen/afiches.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539051125 source:c:\users\usuario\desktop\libreria-parcial-1\examen\afiches.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539050005 c:\users\usuario\desktop\libreria-parcial-1\examen\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1539052660 c:\users\usuario\desktop\libreria-parcial-1\examen\clientes.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"afiches.h"
+	"utn.h"
+
+1539050005 c:\users\usuario\desktop\libreria-parcial-1\examen\afiches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539052959 source:c:\users\usuario\desktop\libreria-parcial-1\examen\clientes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539050005 source:c:\users\usuario\desktop\libreria-parcial-1\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539050005 source:c:\users\usuario\desktop\libreria-parcial-1\examen\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1539052689 source:c:\users\usuario\desktop\libreria-parcial-1\examen\informes.c
+
+1539127523 source:/home/alumno/Descargas/libreria-Parcial-1/Examen/afiches.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539124687 /home/alumno/Descargas/libreria-Parcial-1/Examen/utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1539125419 /home/alumno/Descargas/libreria-Parcial-1/Examen/clientes.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"afiches.h"
+	"utn.h"
+
+1539126044 /home/alumno/Descargas/libreria-Parcial-1/Examen/afiches.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539127523 source:/home/alumno/Descargas/libreria-Parcial-1/Examen/clientes.c
+	<stdio.h>
+	<stdio_ext.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+	"informes.h"
+
+1539124459 source:/home/alumno/Descargas/libreria-Parcial-1/Examen/informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539127523 source:/home/alumno/Descargas/libreria-Parcial-1/Examen/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
+1539124965 source:/home/alumno/Descargas/libreria-Parcial-1/Examen/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1539124317 /home/alumno/Descargas/libreria-Parcial-1/Examen/informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+	"clientes.h"
+	"afiches.h"
+
